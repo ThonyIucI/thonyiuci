@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center"> Hello! 👋 It is Anthony Urbina</h1>
+    <h1 align="center"> Hello! 🙋🏾‍♂️ It is Anthony Urbina</h1>
     <h3 align="justify">Welcome to my profile, I am a mechanical electrical engineer and full stack developer,
         interested in learning about the new tecnologies, especially which are related to the IT world and with the uses
         of Artificial Inteligence </h3>
@@ -7,9 +7,11 @@
 
 ---
 
+### 🧮 About Me:
+
 <div align="left">
-    <h3>Lenguages and tools:</h3>
-    <table class="default">
+    <h3> 💻Lenguages and tools:</h3>
+    <table class="default" style="font-size:10%">
         <tr>
             <th colspan="5">Front End</th>
             <th colspan="4">Back End</th>
@@ -58,7 +60,7 @@
             <td>JavaScript</td>
             <td>HTML5</td>
             <td>CSS3</td>
-              <td>Node JS</td>
+            <td>Node JS</td>
             <td>Express JS</td>
             <td>PostgreSQL</td>
             <td>Sequelize</td>
@@ -71,7 +73,7 @@
         <tr>
             <th colspan="6">Softwares</th>
         </tr>
-<tr>
+        <tr>
             <td>
                 <img src="https://img.icons8.com/fluency/344/autocad.png" title="AutoCAD" alt="AutoCAD" width="40"
                     heigth="40" align="center" />
@@ -107,7 +109,16 @@
         </tr>
     </table>
 </div>
-                                                                                            
+
+<h3> 💻Lenguages and tools:</h3>
+
+<h3>💡 Proyecto Individual en HENRY: [Link de deploy](https://thony-food.vercel.app/) </h3>
+---
+
+### 📊 My Stats:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thonyiuci)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ThonyIucI/thonyiuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
