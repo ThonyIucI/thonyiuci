@@ -149,11 +149,11 @@ Here are some ideas to get you started:
 <h3>💪🏾My projects:</h3>
 
 - 💡 Individual Project in HENRY:
-    SPA (Single Page Application) which a list of food recipes is displayed. Recipe data is obtained from the external API [Spoonacular](https://spoonacular.com)
-    [Link](https://thony-food.vercel.app)
+    SPA (Single Page Application) which a list of food recipes is displayed. Recipe data is obtained from the external API [Spoonacular](https://spoonacular.com). 
+    [wiew project](https://thony-food.vercel.app)
 - 💡 Grupal Project in HENRY: 
      Footwear Ecommerce, includes email notifications, login and payment gateway.
-    [Link](https://app-henry-shoes.herokuapp.com/)
+    [view project](https://app-henry-shoes.herokuapp.com/)
 ---
 
 ### 📊 My Stats:
