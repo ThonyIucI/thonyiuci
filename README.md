@@ -149,7 +149,7 @@ Here are some ideas to get you started:
 <h3>💪🏾My projects:</h3>
 
 - 💡 Individual Project in HENRY: [Link de deploy](https://thony-food.vercel.app)
-
+- 💡 Grupal Project in HENRY: [Link de deploy](https://app-henry-shoes.herokuapp.com/)
 ---
 
 ### 📊 My Stats:
