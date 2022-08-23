@@ -19,8 +19,9 @@
 ---
 
 ### 🧮 About Me:
-- 🔭 I’m currently finishing the full stack carrier in Henry
-- 🌱 I’m currently improving my developer habilities
+- 🔭 I’m graduated from Henry as Full Stack developer
+- 🔭 I´m graduated from UDEP as Ing Mechanical Electrical too
+- 🌱 I’m currently improving my developer habilities coding every single day
 - ⚡ I love using my knowledge helping people with anything they need: technigal or personal issiues
 - 🤝 I think we will achieve great things by talking, listening and agreeing
 
@@ -29,7 +30,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m graduated working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
