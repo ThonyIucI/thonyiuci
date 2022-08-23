@@ -24,6 +24,7 @@
 - 🌱 I’m currently improving my developer habilities coding every single day
 - ⚡ I love using my knowledge helping people with anything they need: technigal or personal issiues
 - 🤝 I think we will achieve great things by talking, listening and agreeing
+- 😄 visit my portfolio in [this link](https://thony-verse.vercel.app/)
 
 <!--
 **ThonyIucI/thonyiuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
